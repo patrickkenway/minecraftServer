@@ -1,0 +1,17 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	last_seen: { dim: "ftbteambases:private_for_ipatrickrei_20251201_195401", x: 60, y: 132, z: 0, time: 1765223756134L, xRot: 33.750027f, yRot: -17.697021f }
+	recording: "none"
+	teleport_history: [
+		{ dim: "ftbteambases:private_for_ipatrickrei_20251201_195401", x: 337, y: 117, z: -774, time: 1764704938898L }
+		{ dim: "ftbteambases:private_for_ipatrickrei_20251201_195401", x: 335, y: 117, z: -783, time: 1764705126682L }
+		{ dim: "ftbteambases:private_for_ipatrickrei_20251201_195401", x: 328, y: 131, z: -787, time: 1764705193027L }
+		{ dim: "ftbteambases:private_for_ipatrickrei_20251201_195401", x: 291, y: 128, z: -805, time: 1764930995401L }
+		{ dim: "ftbteambases:private_for_ipatrickrei_20251201_195401", x: 289, y: 125, z: -787, time: 1764931568575L }
+	]
+	homes: { }
+	kit_use_times: { }
+}

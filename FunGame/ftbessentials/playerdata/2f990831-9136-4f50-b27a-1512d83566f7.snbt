@@ -1,0 +1,14 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	last_seen: { dim: "ftbteambases:private_for_ipatrickrei_20251201_195401", x: -9, y: 131, z: 50, time: 1765223812340L, xRot: 17.007765f, yRot: 135.49413f }
+	recording: "none"
+	teleport_history: [
+		{ dim: "ftbteambases:private_for_ipatrickrei_20251201_195401", x: -7, y: 132, z: -84, time: 1764667385246L }
+		{ dim: "ftbteambases:private_for_ipatrickrei_20251201_195401", x: 333, y: 117, z: -764, time: 1764705203431L }
+	]
+	homes: { }
+	kit_use_times: { }
+}
